@@ -1,2 +1,2 @@
 # docker-flask-locust
-Load testing flask containerized flask applications
+A docker + flask + locust demo project
